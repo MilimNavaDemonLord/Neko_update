@@ -1,0 +1,18 @@
+{
+  "neko_update": [
+    {
+ "version":"0.21",
+ "title":"Update Available",
+ "description":"Neko Injector LTS Unofficial
+
+Build: 21
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+Nuevo Systema de Actualización 
+
+ Actualización AntiBaneo disponible ",
+"download":"https://youtu.be/rY2otd2NacA"
+}
+  ]
+}
