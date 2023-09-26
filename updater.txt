@@ -5,9 +5,7 @@
  "title":"Update Available",
  "description":"Neko Injector LTS Unofficial
 
-Build: 21
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+-----------------------------
 
 Nuevo Systema de Actualización 
 
