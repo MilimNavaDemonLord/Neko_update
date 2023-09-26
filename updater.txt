@@ -6,11 +6,11 @@
 
 Neko Injector LTS | UNOFFICIAL Build 21
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+----------------------------
 
 This App Is Not Officially Supported
  Manage By Milim Nava",
-"download":"https://t.me/uwuresourceguide/191"
+"download":"https://t.me/uwuresourceguide/203"
 }
   ]
 }
