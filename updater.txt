@@ -1,14 +1,16 @@
 {
   "neko_update": [
     {
- "version":"UPDATE AVAILABLE VERISION 0.21",
- "description":"Neko Injector LTS UNOFFICIAL
+ "version":"VERISION 0.21",
+ "description":"UPDATE AVAILABLE
+
+Neko Injector LTS | UNOFFICIAL build 21
 
 -----------------------------
 
-Nuevo Systema de Actualización 
+This App Is Not Officially Supported
 
- Actualización AntiBaneo disponible ",
+ Manage By Milim Nava",
 "download":"https://youtu.be/rY2otd2NacA"
 }
   ]
