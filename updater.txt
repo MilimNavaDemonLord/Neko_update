@@ -1,15 +1,14 @@
 {
   "neko_update": [
     {
- "version":"VERISION 0.21",
+ "version":"Neko Injector v0.21",
  "description":"UPDATE AVAILABLE
 
 Neko Injector LTS | UNOFFICIAL Build 21
 
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This App Is Not Officially Supported
-
  Manage By Milim Nava",
 "download":"https://t.me/uwuresourceguide/191"
 }
