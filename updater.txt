@@ -4,14 +4,14 @@
  "version":"VERISION 0.21",
  "description":"UPDATE AVAILABLE
 
-Neko Injector LTS | UNOFFICIAL build 21
+Neko Injector LTS | UNOFFICIAL Build 21
 
 -----------------------------
 
 This App Is Not Officially Supported
 
  Manage By Milim Nava",
-"download":"https://youtu.be/rY2otd2NacA"
+"download":"https://t.me/uwuresourceguide/191"
 }
   ]
 }
