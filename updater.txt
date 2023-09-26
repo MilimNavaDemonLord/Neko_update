@@ -1,9 +1,8 @@
 {
   "neko_update": [
     {
- "version":"0.21",
- "title":"Update Available",
- "description":"Neko Injector LTS Unofficial
+ "version":"UPDATE AVAILABLE VERISION 0.21",
+ "description":"Neko Injector LTS UNOFFICIAL
 
 -----------------------------
 
