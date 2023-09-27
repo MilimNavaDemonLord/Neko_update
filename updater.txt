@@ -2,10 +2,12 @@
   "neko_update": [
     {
  "version":"Neko Injector v0.21",
- "description":"UPDATE AVAILABLE ONII-CHAN!
+ "description":"UPDATE AVAILABLE
 
 Neko Injector LTS | UNOFFICIAL
 Build 21
+
+----------------------------
 
 BASE
 
