@@ -7,9 +7,15 @@
 Neko Injector LTS | UNOFFICIAL
 Build 21
 
+BASE
+
+Kentang Injector v2.7.0
+Build 20230227
+
 ----------------------------
 
 ATTENTION
+
 This App Is Not Officially Supported
  Manage By Milim Nava",
 "download":"https://t.me/uwuresourceguide/203"
