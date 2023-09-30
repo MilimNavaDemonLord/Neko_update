@@ -1,11 +1,11 @@
 {
   "neko_update": [
     {
- "version":"Neko Injector v0.21",
+ "version":"Neko Injector v0.22",
  "description":"UPDATE AVAILABLE
 
 Neko Injector LTS | UNOFFICIAL
-Build 21
+Build 22
 
 BASE
 
@@ -15,6 +15,7 @@ Build 20230227
 CHANGELOG
 
 •Improvement Mode
+•New Checkbox Style
 •Dialog Banner",
 "download":"https://t.me/uwuresourceguide/203"
 }
