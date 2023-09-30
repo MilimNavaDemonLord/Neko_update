@@ -17,7 +17,7 @@ CHANGELOG
 •Improvement Mode
 •New Checkbox Style
 •Dialog Banner",
-"download":"https://t.me/tempat_bernaung/48"
+"download":"https://t.me/uwu_archive/48"
 }
   ]
 }
