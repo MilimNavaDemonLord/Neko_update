@@ -14,7 +14,7 @@ Build 20230227
 
 CHANGELOG
 
-•Layot Improvement
+•Layout Improvement
 •Add New Crash Logger",
 "download":"https://t.me/uwu_archive/148"
 }
