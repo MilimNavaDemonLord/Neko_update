@@ -16,7 +16,7 @@ CHANGELOG
 
 •Layout Improvement
 •Add New Crash Logger",
-"download":"https://t.me/uwu_archive/148"
+"download":"https://t.me/uwu_member/148"
 }
   ]
 }
