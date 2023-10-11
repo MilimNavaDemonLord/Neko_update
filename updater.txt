@@ -1,11 +1,11 @@
 {
   "neko_update": [
     {
- "version":"Neko Injector v0.23",
+ "version":"Neko Injector Build 24",
  "description":"UPDATE AVAILABLE
 
-Neko Injector LTS | UNOFFICIAL
-Build 23
+Neko Injector vNekoSekai
+Build 24
 
 BASE
 
