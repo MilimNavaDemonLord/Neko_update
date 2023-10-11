@@ -14,9 +14,8 @@ Build 20230227
 
 CHANGELOG
 
-•Layout Improvement
-•Add New Crash Logger",
-"download":"https://t.me/uwu_member/148"
+•Add Onboarding UI",
+"download":"https://t.me/uwuresourceguide/293"
 }
   ]
 }
