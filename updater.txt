@@ -1,11 +1,11 @@
 {
   "neko_update": [
     {
- "version":"Neko Injector Build 24",
+ "version":"Neko Injector Build 25",
  "description":"UPDATE AVAILABLE
 
 Neko Injector vNekoSekai
-Build 24
+Build 25
 
 BASE
 
@@ -14,8 +14,8 @@ Build 20230227
 
 CHANGELOG
 
-•Add Onboarding UI",
-"download":"https://t.me/uwuresourceguide/293"
+•Add Host To IP",
+"download":"https://t.me/uwuresourceguide/312"
 }
   ]
 }
