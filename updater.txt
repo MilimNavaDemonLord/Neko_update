@@ -14,8 +14,8 @@ Build 20230227
 
 CHANGELOG
 
-•Big Updated!, Check Now!",
-"download":"https://t.me/uwuresourceguide/584"
+•Added Elastic View",
+"download":"https://t.me/uwuresourceguide/591"
 }
   ]
 }
