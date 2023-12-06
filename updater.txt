@@ -14,8 +14,8 @@ Build 20230227
 
 CHANGELOG
 
-•Added Elastic View",
-"download":"https://t.me/uwuresourceguide/591"
+•Added Expandable Layout",
+"download":"https://t.me/uwuresourceguide/606"
 }
   ]
 }
