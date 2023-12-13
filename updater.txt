@@ -14,8 +14,12 @@ Build 20230227
 
 CHANGELOG
 
-•Added Horizontal Scroll View",
-"download":"https://t.me/uwuresourceguide/618"
+•Redesign Layout Hotspot Proxy
+•Redesign Layout Hostname Finder
+•Redesign Layout Host To IP
+•Redesign Layout IP Location
+•Redesign Splash Screen",
+"download":"https://t.me/uwuresourceguide/638"
 }
   ]
 }
