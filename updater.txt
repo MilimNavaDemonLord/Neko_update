@@ -1,11 +1,11 @@
 {
   "neko_update": [
     {
- "version":"Neko Injector Build 27",
+ "version":"Neko Injector Build 28",
  "description":"UPDATE AVAILABLE
 
 Neko Injector vNekoSekai
-Build 27
+Build 28
 
 BASE
 
@@ -14,12 +14,10 @@ Build 20230227
 
 CHANGELOG
 
-•Redesign Layout Hotspot Proxy
-•Redesign Layout Hostname Finder
-•Redesign Layout Host To IP
-•Redesign Layout IP Location
-•Redesign Splash Screen",
-"download":"https://t.me/uwuresourceguide/638"
+•Redesign Banner Main
+•Redesign Banner Tools
+•Added Toolbar Rounded",
+"download":"https://t.me/uwuresourceguide/655"
 }
   ]
 }
