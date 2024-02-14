@@ -1,7 +1,7 @@
 {
   "neko_update": [
     {
- "version":"Neko Injector Build 28",
+ "version":"Neko Injector Build 28 v2",
  "description":"UPDATE AVAILABLE
 
 Neko Injector vNekoSekai
@@ -14,10 +14,9 @@ Build 20230227
 
 CHANGELOG
 
-•Redesign Banner Main
-•Redesign Banner Tools
-•Added Toolbar Rounded",
-"download":"https://t.me/uwuresourceguide/655"
+•Improved user interface 
+•Added Host Checker",
+"download":"https://t.me/uwuresourceguide/808"
 }
   ]
 }
