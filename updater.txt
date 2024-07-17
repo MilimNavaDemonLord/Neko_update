@@ -2,19 +2,7 @@
   "neko_update": [
     {
  "version":"Neko Injector",
- "description":"UPDATE AVAILABLE
-
-Neko Injector vNekoSekai
-Build 28
-
-BASE
-
-Kentang Injector v2.7.0
-Build 20230227
-
-CHANGELOG
-
-•Fixed and improvements",
+ "description":"Project discontinued, no more updates",
 "download":"https://youtu.be/nwuW98yLsgY"
 }
   ]
